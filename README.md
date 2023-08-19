@@ -1,2 +1,2 @@
 # Hey Welcome to my git hub Repo
-Yes its the first one i had ever discovered.
+Yes, it's the first one I have ever discovered!
